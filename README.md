@@ -1,7 +1,7 @@
 # Split a Bill
 
 <div align="center">
-  <img src="split-bill.png" alt="Split a Bill app cover" />
+  <img src="split-bill.png" alt="Split a Bill app cover" width="600"/>
   <p>
     <a href="https://split-bill-nataliia-litskevych.netlify.app/">Live Demo</a> •
     <a href="https://github.com/NataliiaLitskevych/Split-bill">Source Code</a>
@@ -27,12 +27,6 @@
 - Add tip percentage and automatically update totals.
 - Responsive layout — works on mobile and desktop.
 - Simple and clean UI for quick use.
-
----
-
-## Demo
-View the live demo here:  
-https://split-bill-nataliia-litskevych.netlify.app/
 
 ---
 
